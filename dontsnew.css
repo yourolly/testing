@@ -1,0 +1,20 @@
+@charset "UTF-8";
+@font-face{
+    font-family:riviera-nights-regular;
+    src:url(https://dev-horizon-react-apps.s3-eu-west-1.amazonaws.com/fonts/riviera-nights/RivieraNights-Regular.otf);
+    src:url(https://dev-horizon-react-apps.s3-eu-west-1.amazonaws.com/fonts/riviera-nights/RivieraNights-Regular-WebXL.woff) format("woff"),url(https://dev-horizon-react-apps.s3-eu-west-1.amazonaws.com/fonts/riviera-nights/RivieraNights-Regular-WebXL.woff2) format("woff2");
+    font-weight:400;
+    font-style:normal
+}
+@font-face{
+    font-family:riviera-nights-light;
+    src:url(https://dev-horizon-react-apps.s3-eu-west-1.amazonaws.com/fonts/riviera-nights/RivieraNights-Light.otf);
+    src:url(https://dev-horizon-react-apps.s3-eu-west-1.amazonaws.com/fonts/riviera-nights/RivieraNights-Light-WebXL.woff) format("woff"),url(https://dev-horizon-react-apps.s3-eu-west-1.amazonaws.com/fonts/riviera-nights/RivieraNights-Light-WebXL.woff2) format("woff2");
+    font-style:normal
+}
+@font-face{
+    font-family:riviera-nights-bold;
+    src:url(https://dev-horizon-react-apps.s3-eu-west-1.amazonaws.com/fonts/riviera-nights/RivieraNights-Bold.otf);
+    src:url(https://dev-horizon-react-apps.s3-eu-west-1.amazonaws.com/fonts/riviera-nights/RivieraNights-Bold-WebXL.woff) format("woff"),url(https://dev-horizon-react-apps.s3-eu-west-1.amazonaws.com/fonts/riviera-nights/RivieraNights-Bold-WebXL.woff2) format("woff2");
+    font-style:normal
+}
